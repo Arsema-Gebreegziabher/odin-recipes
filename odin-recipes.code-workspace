@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../odin-recipes"
+		},
+		{
+			"name": "odin-recipes",
+			"path": "../../odin-recipes/odin-recipes"
+		}
+	],
+	"settings": {}
+}
